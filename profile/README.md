@@ -31,11 +31,6 @@ Decentralized AI is the future of secure and transparent technology. By merging 
 
 ---
 
-## Get Involved  
-We are building the future of decentralized AI and invite developers, researchers, and enthusiasts to join our journey. Explore our [contribution guidelines](CONTRIBUTING.md) and become an active part of our growing community.
-
----
-
 ## Stay Connected  
 Engage with us and follow our progress:  
 - [Website](https://nobalabs.io)  
